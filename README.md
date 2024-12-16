@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushree Sonita Biswal
-- 👀 I’m interested in ... Coding and Live PRojects Collaboration.
-- 🌱 I’m currently learning ... MDERN Stack.
+- 👀 I’m interested in ... Coding and Live Projects Collaboration.
+- 🌱 I’m currently learning ... MERN Stack.
 - 💞️ I’m looking to collaborate on ... Both Frontend and Bcakend Projects.
 - 📫 How to reach me ... sushreesonitab@gmail.com
 - 😄 Pronouns: ...
